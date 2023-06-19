@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d134a29d06fbf24799a1709ee9901d5, type: 3}
+  m_Name: Mossberg Config
+  m_EditorClassIdentifier: 
+  _weaponName: Mossberg
+  _weaponType: Shotgun
+  _price: 3000
+  _bulletAmount: 2
+  _bulletAmountMax: 2
+  _shootBullet: 10
+  _shootRange: 0.5
+  _reloadTime: 3
+  _damage: 6
+  _positiveYRecoil: 0.8
+  _negativeYRecoil: -0.8
+  _positiveZRecoil: 1
+  _negativeZRecoil: -1
+  _shootSound: {fileID: 8300000, guid: 2f711a84d99034e479c53c59edc1915b, type: 3}
+  _reloadSound: {fileID: 8300000, guid: bcd41b9792dea9c42b6359f197449bb5, type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d134a29d06fbf24799a1709ee9901d5, type: 3}
+  m_Name: MP5 Config
+  m_EditorClassIdentifier: 
+  _weaponName: MP5
+  _weaponType: Submachine
+  _price: 1800
+  _bulletAmount: 26
+  _bulletAmountMax: 26
+  _shootBullet: 1
+  _shootRange: 12
+  _reloadTime: 3
+  _damage: 6
+  _positiveYRecoil: 0.3
+  _negativeYRecoil: -0.15
+  _positiveZRecoil: 0.3
+  _negativeZRecoil: -0.15
+  _shootSound: {fileID: 8300000, guid: f87a6a65e2fcc36428463078eb77653f, type: 3}
+  _reloadSound: {fileID: 8300000, guid: 5b64b6938f615bf4ca8a116782c0ebf7, type: 3}

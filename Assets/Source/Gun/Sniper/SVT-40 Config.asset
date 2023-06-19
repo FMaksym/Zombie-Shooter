@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d134a29d06fbf24799a1709ee9901d5, type: 3}
+  m_Name: SVT-40 Config
+  m_EditorClassIdentifier: 
+  _weaponName: SVT-40
+  _weaponType: Sniper
+  _price: 8000
+  _bulletAmount: 8
+  _bulletAmountMax: 8
+  _shootBullet: 1
+  _shootRange: 0.9
+  _reloadTime: 3.5
+  _damage: 50
+  _positiveYRecoil: 0
+  _negativeYRecoil: 0
+  _positiveZRecoil: -0.1
+  _negativeZRecoil: 0.1
+  _shootSound: {fileID: 8300000, guid: 275ce78048e917a4f86a6fab9c09f082, type: 3}
+  _reloadSound: {fileID: 8300000, guid: aae261a54225f184984807943e97c1ec, type: 3}

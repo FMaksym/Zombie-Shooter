@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d134a29d06fbf24799a1709ee9901d5, type: 3}
+  m_Name: J358 Config
+  m_EditorClassIdentifier: 
+  _weaponName: J358
+  _weaponType: Pistol
+  _price: 1500
+  _bulletAmount: 6
+  _bulletAmountMax: 6
+  _shootBullet: 1
+  _shootRange: 1
+  _reloadTime: 3
+  _damage: 6
+  _positiveYRecoil: 0.15
+  _negativeYRecoil: -0.15
+  _positiveZRecoil: 0.15
+  _negativeZRecoil: -0.15
+  _shootSound: {fileID: 8300000, guid: 08e1a2c5da5d0254cb2d580372a8c889, type: 3}
+  _reloadSound: {fileID: 8300000, guid: 90918264dfbd4cc439d2b3634807d799, type: 3}
